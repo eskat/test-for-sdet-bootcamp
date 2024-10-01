@@ -1,2 +1,2 @@
-# test-for-sdet-bootcamp read me
+# test-for-sdet-bootcamp
 Beep boop meow! 
